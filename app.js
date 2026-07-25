@@ -9,7 +9,7 @@
    requests to the AI provider's API.
 ------------------------------------------- */
 const CONFIG = {
-  DEFAULT_API_KEY: '2isVaL78HWCmdLc8jz5Bg3xdwOlQhmRb',            // <-- paste your API key here, e.g. 'abcd1234...'
+  DEFAULT_API_KEY: 'rcMnHp6OFr8HuNjJRPNoFhNGNfHrC2h2',            // <-- paste your API key here, e.g. 'abcd1234...'
   MODEL_TEXT: 'mistral-large-latest',
   MODEL_VISION: 'pixtral-12b-2409',
   // Paste your Spotify app's Client ID here (from developer.spotify.com/dashboard).
